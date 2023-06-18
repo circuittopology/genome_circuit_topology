@@ -9,7 +9,7 @@ Barbara Scalvini, Helmut Schiessel, Anatoly Golovnev, Alireza Mashaghi, Circuit 
 
 and the method chapter 
 
-Barbara Scalvini and Alireza Mashaghi, Circuit topology analysis of single cell HiC data. Methods in Molecular Biology (2024) - in preparation.
+Barbara Scalvini and Alireza Mashaghi, Circuit topology analysis of single cell HiC data. Methods in Molecular Biology (2024). Publisher: Springer Nature - in preparation.
 
 1. Accepted data formats:
 The pipeline is available for PDB files containing 3D models of single-cell chromosomes. In the folder 'Hi-C maps' you can find some functions and example notebooks 
