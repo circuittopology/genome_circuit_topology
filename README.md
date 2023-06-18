@@ -3,8 +3,13 @@ Topological analysis of genome folds based on Circuit Topology (CT) and Network 
 
 Cite the code: [![DOI](https://zenodo.org/badge/428377249.svg)](https://zenodo.org/badge/latestdoi/428377249)
 
-This package contains tools for Circuit Topology analysis pipeline of genomic structures, as presented in the paper 'Circuit topology analysis of cellular genome
-reveals signature motifs, conformational heterogeneity and scaling' by Barbara Scalvini, Helmut Schiessel, Anatoly Golovnev and Alireza Mashaghi.
+This package contains tools for Circuit Topology analysis pipeline of genomic structures, as presented in the paper 
+
+Barbara Scalvini, Helmut Schiessel, Anatoly Golovnev, Alireza Mashaghi, Circuit topology analysis of cellular genome reveals signature motifs, conformational heterogeneity, and scaling, iScience, Volume 25, Issue 3, 2022, 103866, https://doi.org/10.1016/j.isci.2022.103866.
+
+and the method chapter 
+
+Barbara Scalvini and Alireza Mashaghi, Circuit topology analysis of single cell HiC data. Methods in Molecular Biology (2024) - in preparation.
 
 1. Accepted data formats:
 The pipeline is available for PDB files containing 3D models of single-cell chromosomes. In the folder 'Hi-C maps' you can find some functions and example notebooks 
